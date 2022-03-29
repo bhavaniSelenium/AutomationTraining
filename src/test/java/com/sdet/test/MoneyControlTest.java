@@ -13,7 +13,6 @@ import com.sdet.page.MoneyControlLogin;
 public class MoneyControlTest extends BaseTest{
 	@BeforeClass
 	public void createuser() { //it 
-		//create employee
 	}
 	
 	@BeforeMethod
